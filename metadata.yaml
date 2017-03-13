@@ -1,11 +1,14 @@
 _repo: Dead-Souls_1081
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mertvye dushi. English
 contributor:
   translator:
     agent_name: Hogarth, D. J.
     gutenberg_agent_id: '31815'
     url: http://www.gutenberg.org/2009/agents/31815
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -28,6 +31,8 @@ description: "Dead Souls (Russian: Мёртвые ду́ши, Myórtvyjye dúshi
   \ second part, Gogol destroyed it shortly before his death. Although the novel ends\
   \ in mid-sentence (like Sterne's Sentimental Journey), it is usually regarded as\
   \ complete in the extant form.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1081#Dead-Souls
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
